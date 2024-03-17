@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WSS2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="android:background">#FFFFFF</item>
+        <item name="colorPrimary">#0560FA</item>
+        <item name="colorSecondary">#EC8000</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:textColor">@color/dark_text</item>
+    </style>
+
+    <style name="Theme.WSS2" parent="Base.Theme.WSS2" />
+</resources>
